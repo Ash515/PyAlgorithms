@@ -16,6 +16,6 @@ def jump_search(arr,search):
         c+=1
     return "Not found"
 
-arr = [ i for i in range(1,200,15)]
+arr = list(range(1,200,15))
 res = jump_search(arr, 196)
 print(res)
