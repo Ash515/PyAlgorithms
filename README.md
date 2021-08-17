@@ -8,7 +8,8 @@
 2. Sorting 
   - Bubble Sort
   - Merge Sort
-  -  
+  - Selection Sort
+  - Insewrtion Sort
  
  
 # 🚀&nbsp;Installation 
