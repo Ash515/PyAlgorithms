@@ -9,7 +9,7 @@
   - Bubble Sort
   - Merge Sort
   - Selection Sort
-  - Insewrtion Sort
+  - Insertion Sort
  
  
 # 🚀&nbsp;Installation 
