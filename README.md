@@ -5,6 +5,8 @@
 1. **Searching**
   - Linear Search 
   - Binary Search
+  - Jump Search
+  - In
 2. **Sorting**
   - Bubble Sort
   - Merge Sort
