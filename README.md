@@ -6,7 +6,7 @@
   - Linear Search 
   - Binary Search
   - Jump Search
-  - In
+  - Interpolation Search
 2. **Sorting**
   - Bubble Sort
   - Merge Sort
